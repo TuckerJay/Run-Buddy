@@ -13,3 +13,5 @@ https://tuckerjay.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Tucker Dalrymple
+
+### ©️2019 Run Buddy, Inc 
